@@ -26,7 +26,7 @@ Future<String> loadImg64(String url) async {
 }
 
 Future downloadPdf() async {
-  final pdfFile = await pdf.createPdf(new pdf.PDFContent(
+  final pdfFile = await pdf.create(new pdf.PDFContent(
       content: [
         new pdf.Image(image: await loadImg64("img/rx.png")),
         new pdf.TextBloc(text: "text example", bold: true, color: 'blue'),
@@ -58,6 +58,4 @@ Future downloadPdf() async {
           basic: new pdf.Style(color: 'green'))));
 
   pdfFile.download();
-  //pdfFile.print();
-  //pdfFile.open();
 }

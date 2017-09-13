@@ -1,14 +1,11 @@
-name: clapp_data_view
-description: An absolute bare-bones web app.
+name: pdfmakr_example
+description: a pdfmakr example
 version: 0.0.1
-#homepage: https://www.example.com
-#author: rxlabz <email@example.com>
 
 environment:
   sdk: '>=1.20.1 <2.0.0'
 
 dependencies:
-  js: ^0.6.1
   pdfmakr:
     path: ../
 

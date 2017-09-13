@@ -5,7 +5,7 @@ import 'package:js/js.dart';
 
 
 @JS("createPdf")
-external Doc createPdf(PDFContent content);
+external Doc create(PDFContent content);
 
 
 @JS()
@@ -19,9 +19,9 @@ class PDFContent {
 @JS()
 @anonymous
 class Doc {
-  external List<dynamic> download();
-  external List<dynamic> print();
-  external List<dynamic> open();
+  external void download();
+  external void print();
+  external void open();
   external factory Doc();
 }
 
