@@ -1,6 +1,6 @@
 # pdfmakr
 
-A dart wrapper for PDFMake in browser
+A dart wrapper for PDFMake in browser - [example](http://rxlabz.github.io/pdfmakr)
 
 ## Usage
 
@@ -68,6 +68,18 @@ Future<String> loadImg64(String url) async {
   return image;
 }
 
+```
+
+## Example
+
+works with DDC
+
+```bash
+cd example
+pub get
+pub serve
+
+# open in chrome
 ```
 
 ## Features / Todos
