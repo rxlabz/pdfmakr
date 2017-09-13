@@ -1,0 +1,12 @@
+name: pdfmakr
+description: A dart wrapper for http://pdfmake.org/ (browser only)
+version: 0.0.1
+homepage: https://www.example.com
+author: rxlabz <rx@rxla.bz>
+
+environment:
+  sdk: '>=1.20.1 <2.0.0'
+
+dependencies:
+  js: '^0.6.1'
+

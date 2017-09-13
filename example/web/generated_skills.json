@@ -1,0 +1,1085 @@
+[
+  {
+    "id": 1,
+    "title": "Mobiliser le langage dans toutes ses dimensions",
+    "custom": false,
+    "subdomains": [
+      {
+        "id": "1",
+        "custom": false,
+        "title": "La langue française orale",
+        "categories": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Oser entrer en communication",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L'enfant s'exprime par des moyens verbaux.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il reprend des formulations employées par les adultes.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il reprend des fragments d'exposés (consignes, récits...).",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il produit des énoncés organisés entre eux avec cohérence.",
+                "custom": false
+              },
+              {
+                "id": 5,
+                "title": "Il produit des énoncés adaptés aux situations de classe.",
+                "custom": false
+              },
+              {
+                "id": 6,
+                "title": "Il est conscient de la portée de ses paroles sur un auditoire.",
+                "custom": false
+              },
+              {
+                "id": 7,
+                "title": "Il comprend et accepte de reformuler et/ou d'expliquer pour être compris.",
+                "custom": false
+              },
+              {
+                "id": 8,
+                "title": "Il questionne correctement les autres enfant et les adultes.",
+                "custom": false
+              },
+              {
+                "id": 9,
+                "title": "Il comprend les plaisanteries et en produit lui-même.",
+                "custom": false
+              },
+              {
+                "id": 10,
+                "title": "Il converse aisément avec l'adulte au moyen d'un vobulaire solide.",
+                "custom": false
+              },
+              {
+                "id": 11,
+                "title": "Il manie une syntaxe correcte.",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "Comprendre et apprendre",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L'enfant s'intéresse à de nouveaux objets de discussion.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il relie des événements entendus et/ou vus au cours d'échanges oraux informels et/ou de moments d'apprentissges structurés.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il traite des mots renvoyant à l'espace.",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il traite des mots renvoyant au temps.",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "Échanger et réfléchir avec les autres",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L'enfant comprend des énoncés de problèmes, des histoires, des exposés.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il utilise un langage d'évocation pour narre des expériences passées.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il argumente, explique, questionne sur ce que les autres croient, pensent et savent.",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "custom": false,
+            "title": "Commencer ) réféchir sur la langue et acquérir une conscience phonologique",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L'enfant identifie des syllabes communes à plusieurs mots, les isole.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il repère les éléments qui entrent dans la composition des syllabes.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il décompose les mots entendus en syllabes orales.",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il utilise le frappé d'une suite sonore (découpe oralement des mots connus en syllabe) sans support, ni écrit ni imagé.",
+                "custom": false
+              },
+              {
+                "id": 5,
+                "title": "Il a conscience que l'on peut échanger dans d'autres langues que le français ( régionales, étrangères...).",
+                "custom": false
+              }
+            ]
+          }
+        ],
+        "goals": []
+      },
+      {
+        "id": "2",
+        "custom": false,
+        "title": "La langue française écrite",
+        "categories": [],
+        "goals": []
+      }
+    ],
+    "categories": [],
+    "goals": [
+      {
+        "id": 0,
+        "custom": false,
+        "title": "Communiquer avec les adultes et avec les autres enfants par le langage, en se faisant comprendre."
+      },
+      {
+        "id": 1,
+        "custom": false,
+        "title": "S'exprimer dans un langage syntaxiquement correct et précis. Reformuler pour se faire mieux comprendre."
+      },
+      {
+        "id": 2,
+        "custom": false,
+        "title": "Pratiquer divers usage du langage oral : raconter, décrire, écoquer, expliquer, questionner, proposer des solutions, discuter un point de vue."
+      },
+      {
+        "id": 3,
+        "custom": false,
+        "title": "Dire de mémoire, et de manière expressive plusieurs comptnes et poésies."
+      },
+      {
+        "id": 4,
+        "custom": false,
+        "title": "Comprendre des textes écrits sans autre aide que le langage entendu."
+      },
+      {
+        "id": 5,
+        "custom": false,
+        "title": "Manifester de la curiosité par rapport à l'écrit. Pouvoir redire les mots d'une phrase écrite après sa lecture par l'adulte, les mots du titre connu d'un livre ou d'un texte."
+      },
+      {
+        "id": 6,
+        "custom": false,
+        "title": "Participer verbalement à la production d'un écrit. Savoir qu'on n'écrit pas comme on parle."
+      },
+      {
+        "id": 7,
+        "custom": false,
+        "title": "Repérer les irrégularités dans la langue à l'oral en français ( éventuellement dans une autre langue )."
+      },
+      {
+        "id": 8,
+        "custom": false,
+        "title": "Manipuler des syllabes."
+      },
+      {
+        "id": 9,
+        "custom": false,
+        "title": "Discriminer des sons ( syllabes, sous-voyelles, quelques sons-consonnes hors des consonnes occlusives )."
+      },
+      {
+        "id": 10,
+        "custom": false,
+        "title": "Reconnaître les lettres de l'alphabet et connaître les correspondances entre les trois manières de les écrire : cursive, script, capitales d'imprimerie. Copier à l'aide d'un clavier."
+      },
+      {
+        "id": 11,
+        "custom": false,
+        "title": "Écrire son prénom en écriture cursive sans modèle."
+      },
+      {
+        "id": 12,
+        "custom": false,
+        "title": "Écrire seul un mot en utilisant des lettres ou groupes de lettres empruntés aux mots connus."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Agir, s'exprimer, comprendre à travers l'activité physique",
+    "custom": false,
+    "subdomains": [],
+    "categories": [
+      {
+        "id": 0,
+        "custom": false,
+        "title": "Agir dans l'espace, dans la durée et sur les objets",
+        "skills": [
+          {
+            "id": 0,
+            "title": "L'enfant enchaîne des séquences motrices dans un but déterminé (prendreune balle et la lancer sur une cible, par exemple).",
+            "custom": false
+          },
+          {
+            "id": 1,
+            "title": "Il fournit des efforts d'ordre moteur dans la durée {contriantes progressives d'ordre temporel).",
+            "custom": false
+          },
+          {
+            "id": 2,
+            "title": "Il fournit des efforts d’ordre moteur dans le cadre d’une évolution des contraintes spatiales (tirer sur une cible en augmentant la distance).",
+            "custom": false
+          },
+          {
+            "id": 3,
+            "title": "Il anticipe la trajectoire et la vitesse d’un objet en mouvement ",
+            "custom": false
+          },
+          {
+            "id": 4,
+            "title": "Il attrape à deux mains un objet lancé.",
+            "custom": false
+          },
+          {
+            "id": 5,
+            "title": "Il lance un objet et atteint une cible verticale ou horizontale.",
+            "custom": false
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "custom": false,
+        "title": "Adapter ses équilibres et ses déplacements à des environnements ou des contraintes variées",
+        "skills": [
+          {
+            "id": 0,
+            "title": "L’enfant réalise de nouveaux équilibres dans le cadre d’une prise de risque calculé (sauter, escalader, se suspendre, rouler, se laisser flotter...).",
+            "custom": false
+          },
+          {
+            "id": 1,
+            "title": "Il se déplace avec différents types de véhicules (porteurs, tricycles, draisiennes, trottinettes, vélos...).",
+            "custom": false
+          },
+          {
+            "id": 2,
+            "title": "Il prend en compte sa propre sécurité et celle des autres.",
+            "custom": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "custom": false,
+        "title": "Communiquer avec les autres au travers d’actions à visée expressive ou artistique",
+        "skills": [
+          {
+            "id": 0,
+            "title": "L’enfant improvise, invente, crée une situation en utilisant son corps.",
+            "custom": false
+          },
+          {
+            "id": 1,
+            "title": "Il se déplace sur différents supports sonores.",
+            "custom": false
+          },
+          {
+            "id": 2,
+            "title": "Il s’inscrit dans une réalisation de groupe (expression, danse...).",
+            "custom": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "custom": false,
+        "title": "Collaborer, coopérer, s’opposer",
+        "skills": [
+          {
+            "id": 0,
+            "title": "L’enfant collabore à une tâche collective explicitement formulée par l’adulte (sans adversaires).",
+            "custom": false
+          },
+          {
+            "id": 1,
+            "title": "Il collabore à une tâche collective explicitement formulée par l’adulte (avec adversaires identifiés dans des espaces déterminés).",
+            "custom": false
+          },
+          {
+            "id": 2,
+            "title": "Il passe par voie aérienne un objet à un partenaire identifié.",
+            "custom": false
+          },
+          {
+            "id": 3,
+            "title": "Il comprend, accepte et assure un changement de statut au cours d’un jeu collectif (jouer au chat et à la souris, par exemple).",
+            "custom": false
+          },
+          {
+            "id": 4,
+            "title": "Il collabore pour s’opposer à un adversaire ou à une équipe identifiée (immobiliser, soulever, pousser, tirer...).",
+            "custom": false
+          }
+        ]
+      }
+    ],
+    "goals": [
+      {
+        "id": 0,
+        "custom": false,
+        "title": "Courir, sauter, lancer de différentes façons, dans des espaces et avec des matériels variés, dans un but précis."
+      },
+      {
+        "id": 1,
+        "custom": false,
+        "title": "Ajuster et enchaîner ses actions et ses déplacements en fonction d’obstacles à franchir ou de la trajectoire d’objets sur lesquels agir."
+      },
+      {
+        "id": 2,
+        "custom": false,
+        "title": "Se déplacer avec aisance dans des environnements variés, naturels ou aménagés."
+      },
+      {
+        "id": 3,
+        "custom": false,
+        "title": "Construire et conserver une séquence d’actions et de déplacements en relation avec des partenaires, avec ou sans support musical."
+      },
+      {
+        "id": 4,
+        "custom": false,
+        "title": "Coordonner ses gestes et ses déplacements avec ceux des autres, lors de rondes et jeux chantés."
+      },
+      {
+        "id": 5,
+        "custom": false,
+        "title": "Coopérer, exercer des rôles différents complémentaires, s’opposer, élaborer des stratégies pour viser un but ou un effet commun."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Agir, s’exprimer, comprendre à travers les activités artistiques",
+    "custom": false,
+    "subdomains": [
+      {
+        "id": "1",
+        "custom": false,
+        "title": "Les productions plastiques et visuelles",
+        "categories": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Dessiner",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant dessine à l’aide de différents outils (crayon, feutre, pinceau, souris, pad...).",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il compare les effets produits par son action graphique.",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "S’exercer au graphisme décoratif",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant reproduit des graphismes.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il assemble, combine et enchaîne des graphismes",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "Réaliser des compositions plastiques, planes et en volume",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant distingue les couleurs.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il distingue progressivement les solides (cube, pavé, pyramide, cône, boule...).",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il distingue progressivement les formes (carré, rectangle, triangle, disque...).",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il possède un lexique approprié pour décrire les actions (foncer, éclaircir, épaissir...).",
+                "custom": false
+              },
+              {
+                "id": 5,
+                "title": "Il possède un lexique approprié pour décrire les effets produits (épais, opaque, transparent...).",
+                "custom": false
+              },
+              {
+                "id": 6,
+                "title": "Il identifie et reconnaît des matériaux distincts (argile, bois, carton, papier, toile, tissu, métal, plastique...).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "custom": false,
+            "title": "Observer, comprendre et transformer des images",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant distingue le réel de sa (ses) représentation(s) ",
+                "custom": false
+              }
+            ]
+          }
+        ],
+        "goals": []
+      },
+      {
+        "id": "2",
+        "custom": false,
+        "title": "Univers sonores",
+        "categories": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Jouer avec sa voix et acquérir un répertoire de comptines et de chansons",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant produit des sons et des bruits (chuchotements, cris, imitations d’animaux, éléments sonores de la vie quotidienne...).",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il a acquis un répertoire de comptines et de chansons adapté à son âge (à considérer dans chaque section de la maternelle).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "Explorer des instruments, utiliser les sonorités du corps",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant maîtrise l’effet de ses gestes avec plusieurs instruments de musique simples (tambourin, triangle, maracas...).",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il trie les instruments entendus par famille (ceux que l’on frappe, que l’on frotte, que l’on secoue, dans lesquels on souffle...).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "Affiner son écoute",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant distingue une intensité forte/faible, un tempo lent/ rapide, des sons graves/aigus, différents timbres de voix ou d’instruments ",
+                "custom": false
+              }
+            ]
+          }
+        ],
+        "goals": []
+      },
+      {
+        "id": "3",
+        "custom": false,
+        "title": "Le spectacle vivant",
+        "categories": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Pratiquer quelques activités des arts du spectacle vivant",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant imite, invente et assemble des propositions motrices.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il s’approprie un espace scénique déterminé.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il s’approprie un espace scénique déterminé pour s’inscrire dans une production collective ",
+                "custom": false
+              }
+            ]
+          }
+        ],
+        "goals": []
+      }
+    ],
+    "categories": [],
+    "goals": [
+      {
+        "id": 0,
+        "custom": false,
+        "title": "Choisir différents outils, médiums, supports en fonction d’un projet ou d’une consigne et les utiliser en adaptant son geste."
+      },
+      {
+        "id": 1,
+        "custom": false,
+        "title": "Pratiquer le dessin pour représenter ou illustrer, en étant  dèle au réel ou à un modèle, ou en inventant."
+      },
+      {
+        "id": 2,
+        "custom": false,
+        "title": "Réaliser une composition personnelle en reproduisant des graphismes. Créer des graphismes nouveaux."
+      },
+      {
+        "id": 3,
+        "custom": false,
+        "title": "Réaliser des compositions plastiques, seul ou en petit groupe, en choisissant et combinant des matériaux, en réinvestissant des techniques et des procédés."
+      },
+      {
+        "id": 4,
+        "custom": false,
+        "title": "Avoir mémorisé un répertoire varié de comptines et de chansons et les interpréter de manière expressive."
+      },
+      {
+        "id": 5,
+        "custom": false,
+        "title": "Jouer avec sa voix pour explorer des variantes de timbre, d’intensité, de hauteur, de nuance."
+      },
+      {
+        "id": 6,
+        "custom": false,
+        "title": "Repérer et reproduire, corporellement ou avec des instruments, des formules rythmiques simples."
+      },
+      {
+        "id": 7,
+        "custom": false,
+        "title": "Décrire une image, parler d’un extrait musical et exprimer son ressenti ou sa compréhension en utilisant un vocabulaire adapté."
+      },
+      {
+        "id": 8,
+        "custom": false,
+        "title": "Proposer des solutions dans des situations de projet, de création, de résolution de problèmes, avec son corps, sa voix ou des objets sonores."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Construire les premiers outils pour structurer sa pensée",
+    "custom": false,
+    "subdomains": [
+      {
+        "id": "1",
+        "custom": false,
+        "title": "Découvrir les nombres et leurs utilisations",
+        "categories": [],
+        "goals": [
+          {
+            "id": "1",
+            "title": "Découvrir les nombres et leurs utilisations",
+            "categories": [
+              {
+                "id": 0,
+                "custom": false,
+                "title": "Utiliser des nombres",
+                "skills": [
+                  {
+                    "id": 0,
+                    "title": "Évaluer et comparer des collections d’objets avec des procédures numériques ou non numériques.",
+                    "custom": false
+                  },
+                  {
+                    "id": 1,
+                    "title": "Réaliser une collection dont le cardinal est donné. Utiliser le dénombrement pour comparer deux quantités, pour constituer une collection d’une taille donnée ou pour réaliser une collection de quantité égale à la collection proposée.",
+                    "custom": false
+                  },
+                  {
+                    "id": 2,
+                    "title": "Utiliser le nombre pour exprimer la position d’un objet ou d’une personne dans un jeu, dans une situation organisée, sur un rang ou pour comparer des positions.",
+                    "custom": false
+                  },
+                  {
+                    "id": 3,
+                    "title": "Mobiliser des symboles analogiques, verbaux ou écrits, conventionnels ou non conventionnels pour communiquer des informations orales et écrites sur une quantité.",
+                    "custom": false
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "custom": false,
+                "title": "Étudier les nombres",
+                "skills": [
+                  {
+                    "id": 0,
+                    "title": "Avoir compris que le cardinal ne change pas si on modi e la disposition spatiale ou la nature des éléments.",
+                    "custom": false
+                  },
+                  {
+                    "id": 1,
+                    "title": "Avoir compris que tout nombre s’obtient en ajoutant un au nombre précédent et que cela correspond à l’ajout d’une unité à la quantité précédente.",
+                    "custom": false
+                  },
+                  {
+                    "id": 2,
+                    "title": "Quantifier des collections jusqu’à dix au moins ; les composer et les décomposer par manipulations effectives puis mentales. Dire combien il faut ajouter ou enlever pour obtenir des quantités ne dépassant pas dix.",
+                    "custom": false
+                  },
+                  {
+                    "id": 3,
+                    "title": "Parler des nombres à l’aide de leur décomposition.",
+                    "custom": false
+                  },
+                  {
+                    "id": 4,
+                    "title": "Dire la suite des nombres jusqu’à trente. Lire les nombres écrits en chiffres jusqu’à dix.",
+                    "custom": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "custom": false,
+        "title": "Explorer des formes, des grandeurs, des suites organisées",
+        "categories": [],
+        "goals": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Classer des objets en fonction de caractéristiques liées à leur forme."
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "Reconnaître quelques solides (cube, pyramide, boule, cylindre) et nommer quelques formes planes (carré, triangle, cercle et disque, rectangle)."
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "Classer ou ranger des objets selon un critère de longueur ou de masse ou de contenance."
+          },
+          {
+            "id": 3,
+            "custom": false,
+            "title": "Reproduire un assemblage à partir d’un modèle (puzzle, pavage, assemblage de solides...)."
+          },
+          {
+            "id": 4,
+            "custom": false,
+            "title": "Reproduire, dessiner des formes planes."
+          },
+          {
+            "id": 5,
+            "custom": false,
+            "title": "Identifier le principe d’organisation d’un algorithme et poursuivre son application."
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "goals": []
+  },
+  {
+    "id": 5,
+    "title": "Explorer le monde",
+    "custom": false,
+    "subdomains": [
+      {
+        "id": "1",
+        "custom": false,
+        "title": "Se repérer dans le temps et dans l’espace",
+        "categories": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "LE TEMPS : les premiers repères temporels",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant associe des repères temporels aux activités récurrentes de la vie quotidienne.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il assimile des éléments stables d’une chronologie sommaire.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il évoque et anticipe des événements proches du moment présent.",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "Les repères sociaux",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant récite la comptine des jours de la semaine (PS-MS).",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il utilise les jours de la semaine pour préciser les événements de la vie scolaire, de la vie familiale.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il relie entre eux différents modes de repérage (moments de la journée, heures...).",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il objective les durées et repères utilisés par l’adulte (dans cinq minutes, dans une heure...).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "La notion de chronologie",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant construit la chronologie de la semaine (MS).",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il utilise des marques temporelles dans le langage pour situer un propos par rapport au moment de parole : hier, aujourd’hui, maintenant, demain, plus tard... (MS).",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il évoque oralement des moments précis : avant, après, pendant, bien avant, bien après, en même temps... (MS et GS)",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il identifie et reconnaît des événements historiques et des éléments du patrimoine architectural de l’environnement proche (GS).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "custom": false,
+            "title": "La notion de durée",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant matérialise, aidé par l’adulte, l’avancée dans le temps (sabliers, enregistrements divers...).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "custom": false,
+            "title": "L’ESPACE : représenter l’espace",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant restitue et effectue des déplacements à partir de consignes orales précises.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il effectue le rapport entre ses déplacements et les représentations de ceux-ci.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il relie des perceptions en trois dimensions et des codages en deux dimensions par le biais du codage des formes géométriques.",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il se repère et s’oriente dans un espace à deux dimensions.",
+                "custom": false
+              },
+              {
+                "id": 5,
+                "title": "Il code des déplacements ou des représentations spatiales.",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "custom": false,
+            "title": "Découvrir différents milieux",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant produit des représentations de l’espace (photographies prises avec un appareil numérique, notamment).",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il trouve des informations dans des livres documentaires et/ou sur des sites internet déterminés par l’enseignant.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il connaît l’impact de certains comportements humains sur l’environnement ",
+                "custom": false
+              }
+            ]
+          }
+        ],
+        "goals": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Situer des événements vécus les uns par rapport aux autres et en les repérant dans la journée, la semaine, le mois ou une saison."
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "Ordonner une suite de photographies ou d’images, pour rendre compte d’une situation vécue ou d’un récit  ctif entendu, en marquant de manière exacte succession et simultanéité."
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "Utiliser des marqueurs temporels adaptés (puis, pendant, avant, après...) dans des récits, des descriptions ou des explications."
+          },
+          {
+            "id": 3,
+            "custom": false,
+            "title": "Situer des objets par rapport à soi, entre eux, par rapport à des objets repères."
+          },
+          {
+            "id": 4,
+            "custom": false,
+            "title": "Dans un environnement bien connu, réaliser un trajet, un parcours à partir de sa représentation (dessin ou codage)."
+          },
+          {
+            "id": 5,
+            "custom": false,
+            "title": "Élaborer les premiers essais de représentation plane, communicables (construction d’un code commun)."
+          },
+          {
+            "id": 6,
+            "custom": false,
+            "title": "Orienter et utiliser correctement une feuille de papier, un livre ou un autre support d’écrit, en fonction de consignes, d’un but ou d’un projet précis."
+          },
+          {
+            "id": 7,
+            "custom": false,
+            "title": "Utiliser des marqueurs spatiaux adaptés (devant, derrière, droite, gauche, dessus, dessous...) dans des récits, des descriptions ou des explications."
+          }
+        ]
+      },
+      {
+        "id": "5.2",
+        "custom": false,
+        "title": "Explorer le monde du vivant, des objets et de la matière",
+        "categories": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Découvrir le monde vivant",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant identifie, nomme et regroupe des animaux en fonction de leurs caractéristiques (poils, plumes, écailles...), de leurs modes de déplacement (marche, reptation, vol, nage...), de leurs milieux de vie, etc.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il a compris le principe du cycle de vie constitué par la naissance, la croissance, la reproduction, le vieillissement et la mort en assurant les soins nécessaires aux plantations ou élevages de la classe.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il connaît et applique les principes d’une hygiène de vie saine.",
+                "custom": false
+              },
+              {
+                "id": 4,
+                "title": "Il distingue des réalités différentes dans les domaines olfactif, gustatif, tactile, auditif et visuel (PS-MS).",
+                "custom": false
+              },
+              {
+                "id": 5,
+                "title": "Il compare, classe ou ordonne ces réalités, les décrit oralement et les catégorise (GS).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "Explorer la matière",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant a acquis le concept de matière qu’il transvase, malaxe, mélange, modèle, taille, coupe, morcelle, assemble, transforme.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il distingue les matériaux naturels (eau, bois, terre, sable, air) de ceux fabriqués par l’homme (papier, carton, semoule, tissu...) ainsi que les effets qu’il produit sur eux.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il désigne, classe et dé nit les qualités de ces matériaux en utilisant le vocabulaire approprié.",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "Utiliser, fabriquer, manipuler des objets",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant relie une action et/ou le choix d’un outil à un effet attendu (coller, découper, en ler, assembler, équilibrer, utiliser un gabarit, utiliser une souris informatique, une tablette tactile...).",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il détermine une chronologie des tâches requises et ordonne une suite d’actions.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il utilise un mode d’emploi ou une notice de montage illustrée (GS).",
+                "custom": false
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "custom": false,
+            "title": "Utiliser des outils numériques",
+            "skills": [
+              {
+                "id": 1,
+                "title": "L’enfant utilise du matériel informatique en fonction d’une consigne précise.",
+                "custom": false
+              },
+              {
+                "id": 2,
+                "title": "Il utilise du matériel informatique pour réaliser une tâche complexe.",
+                "custom": false
+              },
+              {
+                "id": 3,
+                "title": "Il a acquis la représentation mentale d’un monde en réseau.",
+                "custom": false
+              }
+            ]
+          }
+        ],
+        "goals": [
+          {
+            "id": 0,
+            "custom": false,
+            "title": "Reconnaître les principales étapes du développement d’un animal ou d’un végétal dans une situation d’observation du réel ou sur une image."
+          },
+          {
+            "id": 1,
+            "custom": false,
+            "title": "Connaître les besoins essentiels de quelques animaux et végétaux."
+          },
+          {
+            "id": 2,
+            "custom": false,
+            "title": "Situer et nommer les différentes parties du corps humain, sur soi et sur une représentation."
+          },
+          {
+            "id": 3,
+            "custom": false,
+            "title": "Connaître et mettre en œuvre quelques règles d’hygiène corporelle et d’une vie saine."
+          },
+          {
+            "id": 4,
+            "custom": false,
+            "title": "Choisir, utiliser et savoir désigner des outils et des matériaux adaptés à une situation, à des actions techniques spéci ques (plier, couper, coller, assembler, actionner...)."
+          },
+          {
+            "id": 5,
+            "custom": false,
+            "title": "Réaliser des constructions ; construire des maquettes simples en fonction de plans et d’instructions de montage."
+          },
+          {
+            "id": 6,
+            "custom": false,
+            "title": "Utiliser des objets numériques : appareil photographique, ordinateur, tablette..."
+          },
+          {
+            "id": 7,
+            "custom": false,
+            "title": "Prendre en compte les risques de l’environnement familier proche (objets et comportements dangereux, produits toxiques)."
+          }
+        ]
+      }
+    ],
+    "categories": [],
+    "goals": []
+  }
+]
