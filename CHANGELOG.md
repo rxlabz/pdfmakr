@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.2
+- Add support for Dart 2.0
+  - example updated to use webdev for building and serving of content
+
 ## 0.0.1
 
 - createPdf(PDFContent)

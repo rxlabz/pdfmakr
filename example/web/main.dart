@@ -1,7 +1,7 @@
 import 'dart:async';
-import 'dart:convert';
 import 'dart:html';
 import 'dart:typed_data';
+import 'package:dart2_constant/convert.dart' as convert;
 import 'package:pdfmakr/pdfmakr.dart' as pdf;
 
 String img64;
@@ -19,7 +19,7 @@ Future<String> loadImg64(String url) async {
   var list = new Uint8List.view((response.response as ByteBuffer));
 
   String header = 'data:$contentType;base64,';
-  String base64 = BASE64.encode(list);
+  String base64 = convert.base64.encode(list);
   String image = "${header}${base64}";
 
   return image;
